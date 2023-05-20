@@ -14,7 +14,5 @@ Oh, and I've tested this to a certain extent, but you take any resposibility
 into your own hands if you use this program. I haven't accidentally renamed 
 any files, and you get to confirm the files set to be renamed before anything
 happens, but try to be careful anyway. It doesn't go through folders
-Strings are fun!
-I thought it would be easy but every step comes with an interesting thing
-to learn, and I'm sure the finished script will be a jumbled mess of code
-with plenty of wasted space and most things done the really stupid way ;)
+recursively, so it shouldn't be able to do too much damage, but I'd still
+recommend having a backup of the image files before you use this.
